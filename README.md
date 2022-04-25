@@ -2,6 +2,10 @@
 
 ![Dashboard Definindo Estratégias de Vendas.](dashboardEstrategias.png)
 
+
+![Modelo Star Schema.](starSchema.png)
+
+ 
  
    Você é Analista de Dados na empresa PontoMaximo, uma rede de varejo que vende produtos eletrônicos e eletrodomésticos com
    lojas espalhadas por diversas cidades do Brasil. A empresa começou sua operação no Brasil em 2012 e atua nos quatro estados
@@ -25,10 +29,7 @@
    Seu trabalho é fazer isso acontecer!
 
 
-      ![Modelo Star Schema.](starSchema.png)
-
-
-
+      
       - Qual dos fabricantes dos produtos vendidos, apresenta melhor desempenho nas vendas?
 
       - Qual o total de vendas por estado e por categoria? Use um mapa.
