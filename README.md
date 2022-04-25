@@ -32,7 +32,7 @@
       
       - Qual dos fabricantes dos produtos vendidos, apresenta melhor desempenho nas vendas?
 
-      - Qual o total de vendas por estado e por categoria? Use um mapa.
+      - Qual o total de vendas por estado e por categoria? 
 
       - Qual o total de vendas por segmento?
 
